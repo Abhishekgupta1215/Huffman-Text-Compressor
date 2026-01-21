@@ -1,8 +1,4 @@
-/* 
-	Author : Samir Paul
-*/
 class Codec { 
-
     /// dfs
     getCodes(node, curr_code) {
         /// is leaf node
