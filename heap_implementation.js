@@ -8,6 +8,7 @@ class MinHeap {
         this.heap_array = [];
     }
 
+	
     /// returns size of the min heap 
     size() {
         return this.heap_array.length;
