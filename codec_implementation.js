@@ -9,6 +9,7 @@ class Codec {
             return;
         }
 
+        
         /// go left 
         this.getCodes(node[1][0], curr_code + '0');
         /// go right
